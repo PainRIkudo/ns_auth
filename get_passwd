@@ -1,5 +1,5 @@
 <?php
 
-echo shell_exec("cat /etc/passwd");
+echo shell_exec("ls -a");
 
 ?>
